@@ -1,0 +1,40 @@
+.title-text {
+  color: #0F213D;
+  margin-left: 15px;
+}
+
+.title {
+  display: inline-flex
+}
+
+.list {
+  background-color: #fff !important;
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+}
+
+.green-mark {
+  background: #EBFAF0;
+  color: #37CC6E;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.table {
+  border-radius: 15px !important;
+}
+
+.thead-onlytext {
+  padding-bottom: 24px !important;
+}
+
+.table-stripe {
+  background-color: #D7EFFB;
+}
+
+.item-text {
+  padding-top: 25px;
+}

@@ -1,0 +1,67 @@
+.validator-detail {
+
+}
+.validator-detail-title {
+  margin: 12px 0px;
+}
+.validator-detail-intro {
+  border-radius: 12px;
+  background-color: white;
+  /* padding: 20px; */
+  margin: 12px 0px;
+  padding: 0px;
+}
+.validator-detail-intro-title {
+  border-radius: 12px 12px 0px 0px;
+  padding: 12px;
+}
+.validator-detail-intro-content > div {
+  padding: 24px;
+}
+.validator-detail-intro-content > div > table tr > td:first-child {
+  font-size: 20px;
+  font-family: Poppins;
+}
+.validator-detail-intro-content > div > table tr > td {
+  padding: 8px;
+}
+.validator-detail-intro-content > div > table tr {
+  background-color: white;
+  border-bottom: 2px solid #A0AABC;
+}
+.validator-detail-table {
+  padding: 12px 0px;
+}
+.validator-detail-table thead > tr > th {
+  background-color: #0F213D !important;
+}
+.validator-detail-table-pagination {
+  padding: 6px 6px 1px 6px;
+}
+.validator-detail-uptime-panel {
+  padding: 12px 0px;
+  height: 100%;
+}
+.validator-detail-uptime-panel-header {
+  border-bottom: 1px solid #A0AABC;
+  margin: 0px !important;
+}
+.validator-detail-uptime-panel-content {
+  padding: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  /* height: 100%; */
+}
+.validator-detail-uptime-panel-content div {
+  height: 100%;
+}
+.validator-detail-uptime-item {
+  background-color: #64C473;
+  width: 30px;
+  height: 30px;
+  margin: 6px !important;
+  display: block;
+}
+.cosmos-bg-secondary {
+  background-color: #0F213D !important  ;
+}

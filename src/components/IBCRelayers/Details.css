@@ -1,0 +1,190 @@
+.card {
+  border-radius: 8px !important;
+}
+
+.card-header {
+  border-bottom: 1px solid #eee;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.unknown {
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+  border: solid 1px #eee;
+  background-color: #fff;
+}
+
+.card-body {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.amount {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.money {
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #c1deec;
+}
+
+.pending-mark {
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+  border: solid 1px #eee;
+  background-color: #ebfaf0;
+}
+
+.card-group {
+  justify-content: space-between;
+}
+
+
+.cosmos-item {
+  background-color: #ffffff;
+  border-left: 8px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+.umme-item {
+  background-color: #fef8e4;
+  border-left: 8px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+.cosmos-header {
+  border-bottom: 1px solid #c3cac6;
+}
+
+.detail-assets {
+  border-radius: 8px;
+}
+
+.assets-title {
+  background-color: #fef8e4;
+  padding: 10px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.dropdown-toggle {
+  border: 1px solid #aaa !important;
+}
+
+.assets-right {
+  display: inline-flex;
+}
+
+.dropdown-padding {
+  margin-left: 10px;
+}
+
+.table_head {
+  background-color: #fff !important;
+  height: 50px;
+  border-top-left-radius: 10px !important;
+}
+
+.row_umee_even {
+  background-color: #d7effb;
+}
+
+.row_umee_odd {
+  background-color: #FFF;
+}
+
+.umee_text {
+  margin-left: 10px;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+table {
+  margin-bottom: 0px !important;
+}
+
+.table-footer {
+  padding: 10px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.umee-panel {
+  background-color: #027aff;
+  border-radius: 8px;
+  height: 475px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.umee-text {
+  padding-top: 200px;
+  text-align: center;
+  color: #fff;
+}
+
+.money-text {
+  padding-top: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+.btn-receive {
+  border-radius: 12px;
+  background-color: #fff !important;
+  width: 100px;
+  color: #027aff !important;
+}
+
+.btn-send {
+  border-radius: 12px;
+  background-color: #fff !important;
+  color: #027aff;
+  color: #027aff !important;
+}
+
+.row_no {
+  padding: 2px;
+  border-radius: 15px;
+  background-color: #fef8e4;
+  width: 30px;
+  text-align: center;
+}
+
+.row_delegate {
+  padding: 2px;
+  border-radius: 15px;
+  background-color: #fef8e4;
+  text-align: center;
+}
+
+.row_success {
+  padding: 2px;
+  border-radius: 15px;
+  background-color: #e2f8f1;
+  color: #31b950;
+  text-align: center;
+}
+.row_cancel {
+  padding: 2px;
+  border-radius: 15px;
+  background-color: #fef3f5;
+  color: #f06c8a;
+  text-align: center;
+}
+
+.txs_header {
+  background-color: #0f213d !important;
+  height: 50px;
+}
+
+.btn {
+ border: 1px solid #eee !important; 
+}

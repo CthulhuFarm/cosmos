@@ -1,0 +1,213 @@
+
+.navbar .navbar-brand p{
+  width: 168px;
+  margin-left: 20px;
+  margin-top: 6px;
+}
+.App {
+  background-color: #EBEBEB;
+  /* margin: -50px; */
+  /* padding: 50px; */
+}
+
+a {
+  text-decoration: none !important;
+  color:grey !important;
+
+}
+
+a:hover {
+  color: white !important;
+}
+
+table {
+  font-size: 14px;
+}
+
+.background .blockP {
+  padding-left: 110px;
+}
+
+.block button{
+margin-right: 15px;
+height: min-content;
+}
+
+.header {
+  background-color: #0F213D;
+  justify-content: space-between;
+  padding: 24px;
+}
+.header-menu-item {
+  padding: 8px;
+  gap: 8px;
+}
+.header-menu-item-img {
+  width: 27px;
+  height: 27px;
+}
+
+.header-toolbar-button {
+  width: 50px;
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 25px;
+}
+.status-bar {
+  justify-content: space-between;
+  padding: 14px 160px;
+  background: white;
+}
+
+.status-bar-icon {
+  padding: 13px;
+  box-shadow: 1px 3px 3px #bfb4b4;
+  border-radius: 22px;
+}
+
+.status-bar-info {
+  border-radius: 12px;
+  padding: 0px 6px;
+}
+.footer {
+  background-image: url('footer-bg.png');
+  background-color: #EBEBEB;
+  height: 600px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+  padding: 180px 180px;
+
+  gap: 60px;
+
+  justify-content: center;
+}
+.footer-block {
+  flex: 1;
+}
+.content {
+  min-height: 400px;
+  background: #EBEBEB;
+  padding: 80px;
+}
+
+.cosmos-text {
+  color: white;
+  margin: 0px;
+  padding: 4px 12px;
+  white-space: nowrap;
+
+  font-family: Poppins;
+}
+p.cosmos-text {
+  font-size: 16px;
+}
+
+.cosmos-text-secondary {
+  /* color: black;
+   */
+   color: #0F213D;
+}
+
+.cosmos-text-disabled {
+  color: #707070;
+}
+
+.cosmos-text-info {
+  color: #066BDB;
+}
+
+.bg-info {
+  background: #D7EFFB !important;
+}
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.p-15 {
+  padding: 15px;
+}
+
+.p-12 {
+  padding: 12px !important;
+}
+.g-12 {
+  gap: 12px;
+}
+
+.g-6 {
+  gap: 6px;
+}
+
+.w-100 {
+  width: 100%;
+}
+.my-10 {
+  margin: 10px 0px;
+} 
+
+@media screen and (max-width: 412px) {
+  .block-header {
+    display: inline-flex !important;
+    flex-direction: column;
+  }
+}
+
+.text-ellips {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.table-border {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.text-circle {
+  background-color: #FEF8E4;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding-top: 5px;
+}
+
+.text-success {
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color:green;
+}
+
+.text-canceled {
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color:red;
+}
+
+.text-type {
+  background-color: #FEF8E4;
+  border-radius: 20px;
+  padding: 6px 7px;
+}
+
+.text-blue {
+  color:blue;
+}
+
+.bg-grey {
+  background-color: #D7EFFB;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}

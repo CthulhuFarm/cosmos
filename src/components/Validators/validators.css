@@ -1,0 +1,167 @@
+.validators_bg{
+    background-color: #EBEBEB;
+}
+.validators_card {
+    background-color: #EBFDEF;
+}
+.validators_title {
+    margin-left: 25px;
+}
+.th_img {
+    margin-left: 5px;
+}
+.validators_icon_field {
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    background-color: #c0c9d8;
+    border-radius: 10px;
+}
+.validators_icon1 {
+    position: absolute;
+    text-align: center;
+    width: 22px;
+    height: 22px;
+}
+.validators_icon {
+    position: absolute;
+    text-align: center;
+    width: 22px;
+    height: 22px;
+    margin-right: 15px;
+}
+.card_body {
+    width: 100%;
+    height: 70px;
+}
+.validators_body {
+    background-color: white;
+    border-radius: 10px;
+}
+.validatorsRank {
+    margin-bottom: 50px;
+}
+.validators_table {
+    border-bottom: 10px;
+}
+.table_head {
+    background-color: #0F213D;
+    color: white;
+}
+.px-4 {
+    padding: 0px 4px !important;
+}
+.validatorsRank .table_icon {
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+.validatorsRank .table_icon2 {
+    text-align: right;
+    width: 50px;
+    height: 22px;
+    margin-right: 5px;
+}
+.validatorsRank .dflex {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 13px;
+}
+.validators_search {
+    outline: none;
+    border: 1px solid #c0c9d8;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 150px;
+}
+.validators_active {
+    width: 80px;
+    background-color: #0F213D;
+    padding: 5px 5px;
+    color: rgb(220, 220, 220);
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.block_btn {
+    width: 120px;
+    background-color: #0F213D;
+    padding: 4px 5px;
+    color: rgb(220, 220, 220);
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.validators_inactive {
+    width: 80px;
+    background-color: white;
+    padding: 5px 5px;
+    color: rgb(120, 121, 123);
+    font-size: 16px;
+    outline: none;
+    border: 1px solid #0F213D;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.transaction_btn {
+    width: 120px;
+    background-color: white;
+    padding: 3px 5px;
+    color: rgb(120, 121, 123);
+    font-size: 16px;
+    outline: none;
+    border: 1px solid #0F213D;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.validators_bg .rank_field {
+    background-color: #FEF8E4;
+    width: 22px;
+    height: 22px;
+    border-radius: 5px;
+    text-align: center;
+}
+.validatorsRank .participation_field {
+    width: 60px;
+    background-color: #FEF8E4;
+    border-radius: 5px;
+    padding: 3px 5px;
+    text-align: center;
+}
+.block_title {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px 20px;
+}
+.block_body {
+    background-color: white;
+    border-radius: 10px;
+}
+.validators_bg .table_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.table_title_btnField {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 470px) {
+    .validators_bg .table_title {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+} 

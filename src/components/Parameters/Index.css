@@ -1,0 +1,48 @@
+.param-card {
+  border-radius: 20px;
+  padding-left: 15px;
+  padding-top: 5px;
+  background-color: #fff;
+  border-right: 1px solid #DEDEDE;
+  border-left: 1px solid #DEDEDE;
+  border-top: 1px solid #DEDEDE;
+  margin: 10px;
+}
+
+.text-bold {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.main-panel {
+  border-radius: 5px;
+  background-color: #fff;
+  padding-right: 20px !important;
+}
+
+.param-title {
+  border-bottom: 1px solid #DEDEDE;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.card-title {
+  font-size: 13px;
+}
+
+@media (min-width: 768px) {
+  .col-md-2 {
+      flex: 0 0 auto;
+      width: 14.666667% !important;
+  }
+}
+
+.cards {
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.info-title {
+  display: inline-flex;
+  align-items: center;
+}

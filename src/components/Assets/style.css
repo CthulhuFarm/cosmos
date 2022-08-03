@@ -1,0 +1,28 @@
+
+.k-assets-title {
+
+}
+.k-assets-banner {
+  background-color: #EBFDEF;
+  /* padding: 12px 24px; */
+  border-radius: 12px;
+}
+.k-assets-banner-title {
+  border-bottom: 1px solid #DEDEDE;
+  padding: 12px 24px;
+}
+.k-assets-banner-content {
+  padding: 12px 24px;
+}
+.k-assets-banner-content-button {
+  background-color: #D7EFFB;
+  padding: 8px;
+  border-radius: 12px;
+}
+.k-assets-table {
+  border-radius: 12px;
+  margin-top: 24px;
+}
+.text-uppercase {
+  text-transform: uppercase !important;
+}
